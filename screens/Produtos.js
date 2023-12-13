@@ -15,7 +15,7 @@ const produtos = [
     codigo_categoria: 2,
     nome_produto: 'Big Mouse',
     autor_produto: 'Oh Chung-hwan',
-    valor_produto: '30,00',
+    valor_produto: '25,00',
     imagem_dorama: require('../assets/imagens/doramas/big_mouth.png'),
     descricao_produto: 'Preso em um caso de assassinato, um advogado de baixo desempenho é considerado o notório vigarista Big Mouse.'
   },
@@ -24,7 +24,7 @@ const produtos = [
     codigo_categoria: 3,
     nome_produto: 'Attorney Woo',
     autor_produto:'Yoo In-shik',
-    valor_produto: '30,00',
+    valor_produto: '40,00',
     imagem_dorama: require('../assets/imagens/doramas/extraordinary_attorney_woo.png'),
     descricao_produto: 'Woo Young Woo é uma jovem advogada com autismo. Ela possui um QI alto, uma memória impressionante e um processo de pensamento maravilhosamente criativo, mas tem dificuldade com as interações cotidianas.'
   },
@@ -42,7 +42,7 @@ const produtos = [
     codigo_categoria: 2,
     nome_produto: 'Mouse',
     autor_produto: 'Choi Joon-bae',
-    valor_produto: '30,00',
+    valor_produto: '23,00',
     imagem_dorama: require('../assets/imagens/doramas/mouse.png'),
     descricao_produto: 'Jeong Ba-reum, um policial dedicado, enfrenta uma experiência que mudará sua vida quando se depara com um psicopata devastando a cidade ao lado de seu parceiro Go Moo-chi.'
   },
@@ -51,7 +51,7 @@ const produtos = [
     codigo_categoria: 4,
     nome_produto: 'Moving',
     autor_produto:'Park In-je',
-    valor_produto: '30,00',
+    valor_produto: '27,00',
     imagem_dorama: require('../assets/imagens/doramas/moving.png'),
     descricao_produto: 'Três adolescentes que herdaram os superpoderes de seus pais. Quando uma onda de assassinatos ameaça Seul, eles precisam parar de esconder suas habilidades e entrar em ação.'
   },
@@ -60,7 +60,7 @@ const produtos = [
     codigo_categoria: 4,
     nome_produto: 'My Name',
     autor_produto:'Kim Jin-min',
-    valor_produto: '30,00',
+    valor_produto: '35,00',
     imagem_dorama: require('../assets/imagens/doramas/my_name.png'),
     descricao_produto: 'Yoon ji-woo, uma mulher que, após presenciar o assassinato do pai, busca vingança a todo custo. Ela deposita sua confiança em um chefão do crime organizado da Córeia do Sul que promete justiça a ela.'
   },
@@ -69,7 +69,7 @@ const produtos = [
     codigo_categoria: 1,
     nome_produto: 'Sweet Home',
     autor_produto:'Lee Eung-bok',
-    valor_produto: '30,00',
+    valor_produto: '45,00',
     imagem_dorama: require('../assets/imagens/doramas/sweet_home.png'),
     descricao_produto: 'Quando humanos viram monstros selvagens e espalham o terror, um jovem atormentado e seus vizinhos de apartamento lutam para sobreviver sem perder a humanidade.'
   },
@@ -78,7 +78,7 @@ const produtos = [
     codigo_categoria: 3,
     nome_produto: 'The Glory',
     autor_produto:'hn Gil-ho',
-    valor_produto: '30,00',
+    valor_produto: '34,00',
     imagem_dorama: require('../assets/imagens/doramas/the_glory.png'),
     descricao_produto: 'Uma mulher que sofreu com bullying escolar e agora, já adulta, dedica a sua vida a se vingar de todos que lhe fizeram mal no passado.'
   },
@@ -87,7 +87,7 @@ const produtos = [
     codigo_categoria: 2,
     nome_produto: 'Unlocked',
     autor_produto:'Kim Tae-joon, Tae-joon Kim',
-    valor_produto: '30,00',
+    valor_produto: '37,00',
     imagem_dorama: require('../assets/imagens/doramas/unlocked.png'),
     descricao_produto: 'Lee Na-mi, uma mulher que tem a sua vida transformada em um caos quando um homem perigoso acha seu celular perdido e o usa para rastrear todos os seus passos.'
   },
@@ -96,7 +96,7 @@ const produtos = [
     codigo_categoria: 4,
     nome_produto: 'Vincenzo',
     autor_produto:'Kim Hui-won',
-    valor_produto: '30,00',
+    valor_produto: '28,00',
     imagem_dorama: require('../assets/imagens/doramas/vincenzo.png'),
     descricao_produto: 'Vincenzo é um anti-herói que inicia sua jornada focado em alcançar seus objetivos financeiros e, no meio do caminho, nutre empatia pelos menos favorecidos. Junto com a cômica advogada Hong Cha-yeong, eles planejam destruir o corrupto grupo Babel, com métodos dentro e fora da lei.'
   },
@@ -105,7 +105,7 @@ const produtos = [
     codigo_categoria: 3,
     nome_produto: 'Youth Of May',
     autor_produto:'Kim Sang-hwi',
-    valor_produto: '30,00',
+    valor_produto: '37,00',
     imagem_dorama: require('../assets/imagens/doramas/youth_of_may.png'),
     descricao_produto: 'Hwang Hee Tae é um jovem, aspirante a médico, que odeia tudo o que é previsível. Cansado de sua vida e impactado por um acontecimento que o traumatizou durante um dos protestos contra o governo, ele decide voltar para sua cidade natal onde conhece Kim Myung Hee, uma jovem enfermeira bastante esforçada.'
   },
